@@ -89,34 +89,52 @@
   .card-wrapper {
     width: 96px;
     height: 96px;
+    border-radius: var(--radius-sm);
+    transition: background-color 0.15s;
+  }
+
+  .card-wrapper:hover {
+    background-color: var(--surface-1);
   }
 
   .card {
-    background-color: white;
+    background-color: var(--surface-2);
+    border: 1px solid var(--border-standard);
+    border-radius: var(--radius-sm);
     position: relative;
+    overflow: hidden;
   }
 
   .card > .remove {
     position: absolute;
     top: 0;
     right: 0;
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+
+  .card-wrapper:hover .remove {
+    opacity: 1;
   }
 
   .card > .remove > button {
     padding: 0;
     line-height: 100%;
+    font-size: 0.75rem;
   }
 
   .card > .label {
-    background-color: rgba(255, 255, 255, 0.8);
-    color: black;
-    border-radius: 8px;
+    color: var(--ink-secondary);
+    font-size: 0.7rem;
+    line-height: 1.2;
+    text-align: center;
+    padding: 2px 4px;
   }
 
   .card.print-start-left {
-    border-left: 2px solid #ff4646;
+    border-left: 2px solid var(--mark-feed);
   }
   .card.print-start-top {
-    border-top: 2px solid #ff4646;
+    border-top: 2px solid var(--mark-feed);
   }
 </style>

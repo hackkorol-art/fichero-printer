@@ -595,14 +595,14 @@
 <style>
   canvas {
     image-rendering: pixelated;
-    border: 1px solid #6d6d6d;
+    border: 1px solid var(--border-emphasis);
     max-width: 100%;
   }
   canvas.print-start-left {
-    border-left: 2px solid #ff4646;
+    border-left: 2px solid var(--mark-feed);
   }
   canvas.print-start-top {
-    border-top: 2px solid #ff4646;
+    border-top: 2px solid var(--mark-feed);
   }
   .progress-bar {
     transition: none;

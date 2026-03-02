@@ -548,14 +548,14 @@
 
 <style>
   .canvas-wrapper {
-    border: 1px solid rgba(0, 0, 0, 0.4);
-    background-color: rgba(60, 55, 63, 0.5);
+    border: 1px solid var(--border-standard);
+    background-color: var(--surface-1);
   }
   .canvas-wrapper.print-start-left {
-    border-left: 2px solid #ff4646;
+    border-left: 2px solid var(--mark-feed);
   }
   .canvas-wrapper.print-start-top {
-    border-top: 2px solid #ff4646;
+    border-top: 2px solid var(--mark-feed);
   }
   .canvas-wrapper canvas {
     image-rendering: pixelated;

@@ -105,11 +105,20 @@
   .card-wrapper {
     width: 96px;
     height: 96px;
+    border-radius: var(--radius-sm);
+    transition: background-color 0.15s;
+  }
+
+  .card-wrapper:hover {
+    background-color: var(--surface-1);
   }
 
   .card {
-    background-color: white;
+    background-color: var(--surface-2);
+    border: 1px solid var(--border-standard);
+    border-radius: var(--radius-sm);
     position: relative;
+    overflow: hidden;
   }
 
   .card > .buttons {
@@ -117,25 +126,39 @@
     top: 0;
     right: 0;
     z-index: 2;
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+
+  .card-wrapper:hover .buttons {
+    opacity: 1;
   }
 
   .card > .buttons > button {
     padding: 0;
     line-height: 100%;
+    font-size: 0.75rem;
   }
 
   .card > .label {
-    background-color: rgba(255, 255, 255, 0.8);
-    color: black;
-    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.55);
+    color: var(--ink-primary);
+    border-radius: 0 0 var(--radius-sm) var(--radius-sm);
     z-index: 1;
+    font-size: 0.7rem;
+    line-height: 1.2;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
   }
 
   .card.print-start-left {
-    border-left: 2px solid #ff4646;
+    border-left: 2px solid var(--mark-feed);
   }
   .card.print-start-top {
-    border-top: 2px solid #ff4646;
+    border-top: 2px solid var(--mark-feed);
   }
 
   .card .thumbnail {
