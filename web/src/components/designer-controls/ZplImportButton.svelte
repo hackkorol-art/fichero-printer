@@ -2,6 +2,7 @@
   import type { LabelProps } from "$/types";
   import { FileUtils } from "$/utils/file_utils";
   import MdIcon from "$/components/basic/MdIcon.svelte";
+  import { ENABLE_LABELARY } from "$/config";
 
   interface Props {
     text: string;
@@ -49,12 +50,14 @@
   };
 </script>
 
-<button class="btn btn-sm" onclick={onImportClicked}>
-  <MdIcon icon="receipt_long" />
-  {text}
-  {#if importState === "processing"}
-    <MdIcon icon="hourglass_top" />
-  {:else if importState === "error"}
-    <MdIcon icon="warning" class="text-warning" />
-  {/if}
-</button>
+{#if ENABLE_LABELARY}
+  <button class="btn btn-sm" onclick={onImportClicked}>
+    <MdIcon icon="receipt_long" />
+    {text}
+    {#if importState === "processing"}
+      <MdIcon icon="hourglass_top" />
+    {:else if importState === "error"}
+      <MdIcon icon="warning" class="text-warning" />
+    {/if}
+  </button>
+{/if}
