@@ -1,0 +1,46 @@
+com.example.ficheroandroid.app-jetified-material3-release-0 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\03dd62c83b02e946a782a365f91057e7\transformed\jetified-material3-release\res
+com.example.ficheroandroid.app-jetified-lifecycle-runtime-ktx-release-1 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\1e39f6187368a07c0d77e46b32c02552\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.example.ficheroandroid.app-jetified-lifecycle-process-2.8.7-2 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\1f0cfe3576561163f93fb0015583036d\transformed\jetified-lifecycle-process-2.8.7\res
+com.example.ficheroandroid.app-jetified-animation-release-3 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\2776386b3fdc3f630224b9e4889ed0b7\transformed\jetified-animation-release\res
+com.example.ficheroandroid.app-jetified-activity-compose-1.9.3-4 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\285393b42733d9b3a3ea5f76cc8b630c\transformed\jetified-activity-compose-1.9.3\res
+com.example.ficheroandroid.app-jetified-runtime-release-5 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\2e7f4a5a6a4cfc61d667c70f2a216cf8\transformed\jetified-runtime-release\res
+com.example.ficheroandroid.app-jetified-foundation-release-6 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\34fa5758ee735443fd6a35806953346f\transformed\jetified-foundation-release\res
+com.example.ficheroandroid.app-jetified-emoji2-1.3.0-7 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\36203a2a367dcf673d27232563ef859b\transformed\jetified-emoji2-1.3.0\res
+com.example.ficheroandroid.app-jetified-ui-graphics-release-8 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\3eb6e6023a05957bcc494cfd801b4b64\transformed\jetified-ui-graphics-release\res
+com.example.ficheroandroid.app-jetified-ui-text-release-9 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\4639bd30126a8a4bd6221f442719290b\transformed\jetified-ui-text-release\res
+com.example.ficheroandroid.app-jetified-core-ktx-1.15.0-10 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\4c129cec7743625a091f5d15016a2906\transformed\jetified-core-ktx-1.15.0\res
+com.example.ficheroandroid.app-jetified-ui-util-release-11 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\50deec6b4760932c55eced879d512bf7\transformed\jetified-ui-util-release\res
+com.example.ficheroandroid.app-jetified-ui-unit-release-12 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\55a3844e6e1edc94a27a305490e492a3\transformed\jetified-ui-unit-release\res
+com.example.ficheroandroid.app-jetified-profileinstaller-1.3.1-13 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\565fbf4de7f211c2a6181ef9a0e0d2c2\transformed\jetified-profileinstaller-1.3.1\res
+com.example.ficheroandroid.app-jetified-ui-release-14 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\629513c6467d40848a4837df2fe30a9e\transformed\jetified-ui-release\res
+com.example.ficheroandroid.app-jetified-activity-1.9.3-15 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\6ecab06d737cebd7ecaa67b3b2abf7ad\transformed\jetified-activity-1.9.3\res
+com.example.ficheroandroid.app-jetified-material-icons-core-release-16 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\72a039fb3ae64cb379ad19ca38672caf\transformed\jetified-material-icons-core-release\res
+com.example.ficheroandroid.app-core-1.15.0-17 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\7476d9848fbf3022753ec9dd3c2c9186\transformed\core-1.15.0\res
+com.example.ficheroandroid.app-jetified-activity-ktx-1.9.3-18 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\76263881984803500d4d74f6bbe4fd66\transformed\jetified-activity-ktx-1.9.3\res
+com.example.ficheroandroid.app-jetified-savedstate-1.2.1-19 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\7faba6d09fab391cb05aff072b739372\transformed\jetified-savedstate-1.2.1\res
+com.example.ficheroandroid.app-jetified-animation-core-release-20 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\8cffd32a627c77017df740a589e44376\transformed\jetified-animation-core-release\res
+com.example.ficheroandroid.app-jetified-tracing-1.2.0-21 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\957f55b9d3cda8c28fb78067ce576c47\transformed\jetified-tracing-1.2.0\res
+com.example.ficheroandroid.app-jetified-customview-poolingcontainer-1.0.0-22 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\a0c12f6ab7bc320448cd6a110651e05b\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.ficheroandroid.app-jetified-runtime-saveable-release-23 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\a51ef8873241111a52188808132166a4\transformed\jetified-runtime-saveable-release\res
+com.example.ficheroandroid.app-lifecycle-livedata-core-2.8.7-24 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\a734f870883a098eabd8bdeeb951f6f4\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.ficheroandroid.app-jetified-startup-runtime-1.1.1-25 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\af82df5cc00ef348c2500727068b1780\transformed\jetified-startup-runtime-1.1.1\res
+com.example.ficheroandroid.app-jetified-annotation-experimental-1.4.1-26 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\b314a94b20329e9b28734ac8956ed8ca\transformed\jetified-annotation-experimental-1.4.1\res
+com.example.ficheroandroid.app-jetified-material-ripple-release-27 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\b3d4ca281db5902d1669785578eb5a38\transformed\jetified-material-ripple-release\res
+com.example.ficheroandroid.app-jetified-ui-geometry-release-28 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\b767799264707a9bf6f79759a0829476\transformed\jetified-ui-geometry-release\res
+com.example.ficheroandroid.app-jetified-lifecycle-viewmodel-ktx-2.8.7-29 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\ba059588b4ff3546788ee33cd91a8472\transformed\jetified-lifecycle-viewmodel-ktx-2.8.7\res
+com.example.ficheroandroid.app-jetified-foundation-layout-release-30 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\bce69c178250cd9e155b6aa96a36ef36\transformed\jetified-foundation-layout-release\res
+com.example.ficheroandroid.app-jetified-material-icons-extended-release-31 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\be53bcb52301dd0674a64f791b5046d4\transformed\jetified-material-icons-extended-release\res
+com.example.ficheroandroid.app-jetified-lifecycle-runtime-release-32 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\c22f32a615ecc19828643d49ddeda3da\transformed\jetified-lifecycle-runtime-release\res
+com.example.ficheroandroid.app-jetified-savedstate-ktx-1.2.1-33 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\c71f26220d2066f9a1b5d078dc7484b4\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.ficheroandroid.app-core-runtime-2.2.0-34 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\cc3ec1168c73646fa1e5053684a4d8d4\transformed\core-runtime-2.2.0\res
+com.example.ficheroandroid.app-jetified-graphics-path-1.0.1-35 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\d235324b05bb784924103550d89a4b25\transformed\jetified-graphics-path-1.0.1\res
+com.example.ficheroandroid.app-jetified-lifecycle-viewmodel-release-36 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\dc00bb9e2c27c4c6caf2ff48c6be85c1\transformed\jetified-lifecycle-viewmodel-release\res
+com.example.ficheroandroid.app-jetified-lifecycle-runtime-compose-release-37 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\e95b5d61c14cc521da3a0fb39eb8a2d8\transformed\jetified-lifecycle-runtime-compose-release\res
+com.example.ficheroandroid.app-jetified-lifecycle-viewmodel-savedstate-2.8.7-38 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\f6d81062d79a6c29ac25a6fd272ddfe9\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.ficheroandroid.app-jetified-ui-tooling-preview-release-39 C:\Users\kyiko\.gradle\caches\8.10.2\transforms\f78f4d537a70eb7be6736a24e2f8d467\transformed\jetified-ui-tooling-preview-release\res
+com.example.ficheroandroid.app-resValues-40 C:\Users\kyiko\Downloads\Fichero D11\android-app\app\build\generated\res\resValues\release
+com.example.ficheroandroid.app-packageReleaseResources-41 C:\Users\kyiko\Downloads\Fichero D11\android-app\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.ficheroandroid.app-packageReleaseResources-42 C:\Users\kyiko\Downloads\Fichero D11\android-app\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.ficheroandroid.app-release-43 C:\Users\kyiko\Downloads\Fichero D11\android-app\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.ficheroandroid.app-main-44 C:\Users\kyiko\Downloads\Fichero D11\android-app\app\src\main\res
+com.example.ficheroandroid.app-release-45 C:\Users\kyiko\Downloads\Fichero D11\android-app\app\src\release\res
