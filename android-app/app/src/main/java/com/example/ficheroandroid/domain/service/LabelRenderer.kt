@@ -269,14 +269,23 @@ class LabelRenderer {
 
         for (yPx in 0 until heightPx) {
             for (xByte in 0 until BYTES_PER_ROW) {
-                var b = 0
-                for (bit in 0 until 8) {
-                    val xPx = xByte * 8 + bit
-                    if (xPx < bitmap.width) {
-                        val pixel = bitmap.getPixel(xPx, yPx)
-                        val luminance = (0.299 * Color.red(pixel) + 0.587 * Color.green(pixel) + 0.114 * Color.blue(pixel))
-                        if (luminance < 128) b = b or (1 shl (7 - bit))
+                // Оставляем последний байт строки (правый край) полностью белым,
+                // чтобы получить ~1 мм поля справа на напечатанной этикетке.
+                val b = if (xByte >= BYTES_PER_ROW - 1) {
+                    0
+                } else {
+                    var acc = 0
+                    for (bit in 0 until 8) {
+                        val xPx = xByte * 8 + bit
+                        if (xPx < bitmap.width) {
+                            val pixel = bitmap.getPixel(xPx, yPx)
+                            val luminance = (0.299 * Color.red(pixel) + 0.587 * Color.green(pixel) + 0.114 * Color.blue(pixel))
+                            if (luminance < 128) {
+                                acc = acc or (1 shl (7 - bit))
+                            }
+                        }
                     }
+                    acc
                 }
                 rowsData[yPx * BYTES_PER_ROW + xByte] = b.toByte()
             }
